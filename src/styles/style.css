@@ -1,0 +1,56 @@
+#header {
+    font-family: "Arial", sans-serif;
+    background-color: #e9ecef;
+    border-bottom: dotted #ced4da 3px;
+}
+
+div {
+    font-family: "Arial", sans-serif;
+    color: #03234B;
+}
+
+.defaultButton{
+	height: 38px;
+	border-radius: 2px;
+	background-color: #03234B;
+	border: #03234B solid 1px;
+	color: white;
+	font-family: Arial, sans-serif;
+}
+
+.defaultButton.form-control {
+	height: 38px;
+	border-radius: 0px;
+	background-color: #03234B;
+	border: #03234B solid 1px;
+	color: white;
+	font-family: Arial, sans-serif;
+}
+
+.defaultButton:hover {
+	border: #E6007E solid 1px;
+	background-color: #E6007E;
+}
+
+.defaultButton:disabled {
+	color: white;
+	background-color: #425a78;
+	border: #425a78 solid 1px;
+}
+  
+.defaultButton:disabled, .defaultButton.disabled, fieldset:disabled .defaultButton {
+	pointer-events: none;
+	opacity: 0.65;
+}
+
+h1 {
+    text-align: center;
+}
+
+#chartContainer {
+    height: 300px;
+}
+
+#resetButton {
+    margin-bottom: 2em;
+}

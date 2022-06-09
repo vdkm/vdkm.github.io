@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.89127dc6.css",
+    "main.js": "./static/js/main.a6d427ad.js",
+    "static/media/st-logo.svg": "./static/media/st-logo.01d65641d9828fd6847ef785b4019063.svg",
+    "static/media/eventOpened.svg": "./static/media/eventOpened.35340e4e196e79c77a4ac4807ed9ce24.svg",
+    "static/media/temperature.svg": "./static/media/temperature.96b8a21218fe3570597566cc43514778.svg",
+    "index.html": "./index.html",
+    "static/media/eventFlipped.svg": "./static/media/eventFlipped.a622e449fbb5ba27923090356ff90e96.svg",
+    "main.89127dc6.css.map": "./static/css/main.89127dc6.css.map",
+    "main.a6d427ad.js.map": "./static/js/main.a6d427ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89127dc6.css",
+    "static/js/main.a6d427ad.js"
+  ]
+}
